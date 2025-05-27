@@ -1,0 +1,6 @@
+influxdb-client
+paho-mqtt
+RPi.GPIO
+dht11
+modbus-tk
+pyserial
