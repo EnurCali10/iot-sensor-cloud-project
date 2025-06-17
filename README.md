@@ -18,7 +18,7 @@ Bu proje, Raspberry Pi üzerinde çalışan bir Python uygulaması ile çevresel
 
 Aşağıdaki şema, veri kaynaklarından başlayıp AWS bulutuna kadar olan tüm süreci görsel olarak açıklamaktadır:
 
-![Sistem Mimarisi](bulutbilişim-proje.jpeg)
+![Sistem Mimarisi](big_picture.png)
 
 ##  Dosya Açıklamaları
 
